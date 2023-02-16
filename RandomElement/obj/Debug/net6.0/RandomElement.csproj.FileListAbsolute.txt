@@ -1,0 +1,15 @@
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\bin\Debug\net6.0\RandomElement.exe
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\bin\Debug\net6.0\RandomElement.deps.json
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\bin\Debug\net6.0\RandomElement.runtimeconfig.json
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\bin\Debug\net6.0\RandomElement.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\bin\Debug\net6.0\RandomElement.pdb
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.csproj.AssemblyReference.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfoInputs.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfo.cs
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.csproj.CoreCompileInputs.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\refint\RandomElement.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.pdb
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\RandomElement.genruntimeconfig.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\RandomElement\obj\Debug\net6.0\ref\RandomElement.dll

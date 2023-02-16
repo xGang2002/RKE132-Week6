@@ -1,0 +1,15 @@
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\bin\Debug\net6.0\Week6StringAndArray.exe
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\bin\Debug\net6.0\Week6StringAndArray.deps.json
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\bin\Debug\net6.0\Week6StringAndArray.runtimeconfig.json
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\bin\Debug\net6.0\Week6StringAndArray.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\bin\Debug\net6.0\Week6StringAndArray.pdb
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.csproj.AssemblyReference.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.AssemblyInfoInputs.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.AssemblyInfo.cs
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.csproj.CoreCompileInputs.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\refint\Week6StringAndArray.dll
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.pdb
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\Week6StringAndArray.genruntimeconfig.cache
+C:\Users\sassi\OneDrive\Документы\VisualMoodle\Week6StringAndArray\Week6StringAndArray\obj\Debug\net6.0\ref\Week6StringAndArray.dll
